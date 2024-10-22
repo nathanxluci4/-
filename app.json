@@ -1,6 +1,6 @@
 {
-  "name": "FIRE MD",
-  "description": " BRINGING FORTH A NEW REVOLUTION.",
+  "name": "𝔫𝔞𝔱𝔥𝔞𝔫",
+  "description": " ⛧",
   "keywords": [
     "FIRE MD"
   ],
@@ -8,14 +8,14 @@
   "stack": "container",
   "env": {
     "OWNERS": {
-      "description": "owner numbers",
+      "description": "48459234399",
       "required": true,
-      "value": "2349013432338;opaksfire"
+      "value": "48459234399;𝔫𝔞𝔱𝔥𝔞𝔫"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "FIRE MD"
+      "value": "𝔫𝔞𝔱𝔥𝔞𝔫"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
@@ -35,7 +35,7 @@
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": ""
+      "value": "-"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -60,7 +60,7 @@
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "TRUE"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
